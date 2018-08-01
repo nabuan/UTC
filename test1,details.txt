@@ -1,0 +1,23 @@
+Date	:	03-14-2016
+Time	:	20:39:25
+Experimental Log of test1.txt
+
+----Protein Info--------------------
+  Protein Name	:	
+  Concentration	:	0.00 nM
+  Comments	:	
+
+----Protein Dilution----------------
+  Stock Conc		: 0 nM
+  Stock Vol		: 0.0 ul
+  Final Vol		: 0 ml
+  Cal Final Conc	: NaN nM
+
+---Stretch/Release Info------------
+  No. Of Steps	:20
+  StepIncrement	:100.0 nm
+  Step Delay	:0.0 ms
+  Points Avg	:1000 
+
+----Force Feedback Info-------------
+  Status	: Disabled 
