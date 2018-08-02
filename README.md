@@ -4,3 +4,14 @@ A LabWindows based data acquisition program for optical tweezers. The programs d
 digitally acquire piezo position using a differential quadrature encoder, while  reading (NI DAQMX - AI) the deflections of two counter propogating lasers
 registerend in seperate quadrant PIN photdiodes (QP). In addition the program utlizies multi-threading capabilities to drive two cameras to
 acquire simultaneous image information.
+## GUI
+### Main Panel
+![Main Panel](MainPanel.png)
+### Camera Panel
+![Camera Panel](CameraPanel.png)
+### CameraView
+![Camera View](CameraView.png)
+
+
+
+
