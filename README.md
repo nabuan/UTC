@@ -8,10 +8,13 @@ acquire simultaneous image information.
 Screen shots of the UTC panels during a DNA intercaation experiment
 ### Main Panel
 ![Main Panel](MainPanel.png)
+#### The figure shows a screen shot during a DNA intercalation experiment. The Main control panel is used to setup all the data acquisition parameters such as extension-step sizes , delay between each steps, force-clamp information. In addition the image acquisition model can be used to set up the image capturing frequency. Force-clamp experiments can be manipulated real-time to switch between forces. Before saving the data acquired, the user can imput information about an experimental run on the ‘save details’ module (right) such as, the protein type and concentration and comments, that will automatically be saved along with all the data acquisition parameters, as supplemental detail information for a given run. 
 ### Camera Panel
 ![Camera Panel](CameraPanel.png)
+#### The cameral controller allows the user to configure nulti-treading prioriy parameters and switch beween the two cameras.   
 ### CameraView
 ![Extension time](Extension_timePanel.png)
+#### Extension and time are plotted in y and x axis, respectively. The snapshot shown here was taken during an experiment with DNA intercalators. This simple and newest addition continuosly displays the extension as a function of time during force-clamped experiments. Extension-time infomration updates the user on the current kinetic state and thereby allowing to manipulate parameters during the data acquisition.
 ### CameraView
 ![Camera View](CameraView.png)
 
